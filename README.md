@@ -12,9 +12,9 @@ Este proyecto utiliza un modelo de Tensorflow.js, el cual para cargarse requiere
 
 -Navega hasta la carpeta donde descargaste el repositorio
 
--Ejecuta el comando python -m http.server 8000
+-Ejecuta el comando python -m http.server 7000
 
--Abre un explorador y ve a http://localhost:8000
+-Abre un explorador y ve a http://localhost:7000
 
 # Uso
 Dibuja con el mouse o tu dedo en el canvas cuadrado un número del 0 al 9, y da clic en "Predecir". Para limpiar el canvas da clic en "Limpiar".
